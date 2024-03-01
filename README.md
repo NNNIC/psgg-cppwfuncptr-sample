@@ -16,6 +16,11 @@ sample/ <br>
 　state/Test1Control.psgg - StageGo file   <br>
 　state/Test1Control.hpp  - Output using StateGo   <br> 
 </p>
+
+## Run
+
+![](https://github.com/NNNIC/psgg-cppwfuncptr-sample/blob/main/wiki/run.png)
+
  
 ## state-machine
 StateGo Capture.
