@@ -8,13 +8,15 @@ Visual Studio 2022
 [StateGo](https://statego.programanic.com/index-e.html)
 
 ## Sources
-sample/
-  test1.cpp - main
-  test1.sln - solution file
-  test1.vcxproj - project file
-  state/Test1Control.psgg - StageGo file 
-  state/Test1Control.hpp  - Output using StateGo 
-
+<p>
+sample/ <br>
+　test1.cpp - main <br>
+　test1.sln - solution file  <br>
+　test1.vcxproj - project file  <br>
+　state/Test1Control.psgg - StageGo file   <br>
+　state/Test1Control.hpp  - Output using StateGo   <br> 
+</p>
+ 
 ## state-machine
 StateGo Capture.
 
