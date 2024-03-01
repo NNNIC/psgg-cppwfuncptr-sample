@@ -1,5 +1,5 @@
 # psgg-cppwfuncptr-sample
-StateGo C++ witch Function pointer sample
+StateGo C++ with Function Pointer sample
 
 ## ENVIRONMENT
 
