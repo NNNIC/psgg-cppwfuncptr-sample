@@ -3,8 +3,8 @@ StateGo C++ with Function Pointer sample
 
 ## ENVIRONMENT
 
-Windows 10/11  
-Visual Studio 2022
+Windows 10/11  <br>
+Visual Studio 2022 <br>
 [StateGo](https://statego.programanic.com/index-e.html)
 
 ## Sources
